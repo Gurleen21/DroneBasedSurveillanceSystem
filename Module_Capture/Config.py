@@ -1,0 +1,9 @@
+Parent = 'C:/Users/ishit/Desktop/DBSS/Module_Capture/'
+Directory_Location = f'{Parent}Capture/'
+GPS_Directory_PATH = f'{Parent}GPS_Capture/'
+GPS_TEMP_PATH = f'{Parent}GPS_Temp/'
+PointerPath = f"{Parent}MPos.exe"
+# Directory_Location = 'C:/Users/ishit/Desktop/DSS Server/Capture/'
+# GPS_Directory_PATH = 'C:/Users/ishit/Desktop/DSS Server/GPS_Capture/'
+# GPS_TEMP_PATH = 'C:/Users/ishit/Desktop/DSS Server/GPS/'
+# PointerPath = r"C:\Users\ishit\Downloads\MPos-v.0.5.0-Portable\MPos-v.0.5.0-Portable\MPos.exe"

@@ -1,0 +1,6 @@
+Parent = "C:/Users/ishit/Desktop/DBSS/Module_ESRGAN/"
+Original_Data_Dir = f"{Parent}Original_Images/"
+ESRGAN_Data_Dir = f"{Parent}ESRGAN_Images/"
+Split_Data_Dir = f"{Parent}Split_Images/"
+Split_Data_Dir_32 = f"{Parent}Split_Images_32/"
+Model_Path = f"{Parent}gen_d_3350_e_5.h5"
